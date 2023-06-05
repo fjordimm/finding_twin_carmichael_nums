@@ -1,8 +1,21 @@
 
 /*
 
-Modified from:
-https://codegolf.stackexchange.com/a/974
+File: carmichael_twin_search.c
+Author: fjordimm
+Created: 6-5-2023
+Last Updated: 6-5-2023
+
+Credits:
+ - Uses almost direct copies of code from https://codegolf.stackexchange.com/a/974 for:
+    - is_prime()
+	- prime()
+	- is_carmichael()
+
+Machine used by author:
+	Windows 11 (OS Build 22621.1702)
+Compiled using:
+	gcc.exe (tdm64-1) 10.3.0
 
 */
 
